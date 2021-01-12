@@ -1,5 +1,6 @@
 # Fairchild-Coding-Club
-A team setting of individuals who want to hone a new skill and master a new computer language or an understanding of code.
+The Coding Club is the place to take that interest in technology, and turn it into a productive skill. 
+This club will introduce you to the basics of coding with python and exploration in video game development and much more in a team setting.
 
 In Python 3.6, there are 33 reserved keywords: https://realpython.com/lessons/reserved-keywords/
 
